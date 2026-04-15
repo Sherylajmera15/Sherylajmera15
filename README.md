@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hey, I'm Sheryl!
 
-<!--
-**Sherylajmera15/Sherylajmera15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 B.Tech CSE (Data Science) student at Manipal University Jaipur
+🚀 Passionate about Machine Learning, Data Science & Coding
+🌱 Currently learning: Advanced ML, Deep Learning
+🎯 Goal: Become a top-tier Data Scientist
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+* 🔍 I love solving real-world problems using data
+* 📊 Into ML models, analytics & optimization
+* 💡 Always curious and exploring new tech
+* 🌍 Remote internship experience (starting early 💅)
+
+---
+
+## ⚙️ Tech Stack
+
+💻 Languages:
+`Python` `C++` `SQL`
+
+📊 Data Science & ML:
+`Pandas` `NumPy` `Scikit-learn` `Matplotlib`
+
+🛠 Tools & Platforms:
+`Git` `GitHub` `Jupyter Notebook` `VS Code`
+
+---
+
+## 🚀 Projects
+
+
+
+## 📈 GitHub Stats
+
+https://github.com/Sherylajmera15/Sherylajmera15
+---
+
+
+## 🌐 Connect with Me
+
+* 💼 LinkedIn: https://www.linkedin.com/in/sherylajmera15/
+* 📧 Email: sheryl.ajmera2006@gmail.com
+
